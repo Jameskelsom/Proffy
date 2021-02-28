@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/display.png" width="100%">
+  <img alt="Proffy" src=".github/display.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
